@@ -13,7 +13,7 @@ def main_menu():
                 KeyboardButton(text="Контакты")
             ],
             [
-                KeyboardButton(text="О нас")
+                KeyboardButton(text="Задать вопрос")
             ]
         ],
         resize_keyboard=True,
